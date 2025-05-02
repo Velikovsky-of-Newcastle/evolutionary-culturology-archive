@@ -1,5 +1,4 @@
 # 🧠 Ev Cult Blog Index
-
 - [10 Iconic Films As Cinematic Fractal Holonpartons How Cinema Illuminates The Pri](10-iconic-films-as-cinematic-fractal-holonpartons-how-cinema-illuminates-the-pri.md)
 - [10 Maths Sub Domains Ev Cult](10-maths-sub-domains-ev-cult.md)
 - [10 Pressing Scientific Problems And Ev Cults 10 Solutions](10-pressing-scientific-problems-and-ev-cults-10-solutions.md)
