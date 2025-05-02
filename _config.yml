@@ -1,0 +1,7 @@
+title: Evolutionary Culturology Archive
+description: Structured markdown archive of the Ev Cult blog by J.T. Velikovsky
+theme: minima
+markdown: kramdown
+show_downloads: true
+plugins:
+  - jekyll-feed
